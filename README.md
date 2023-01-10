@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pujitha-vasanth
-- 👀 I’m interested in the application of Data Science and Machine Learning for business solutions
+- 👀 I’m interested in the application of Data Science, Machine Learning, and AI for business solutions
 - 🌱 I’m currently learning Azure Machine Learning Studio and Python for Data Scientists from Datacamp
 - 📫 How to reach me: pujitha.vasanth@gmail.com 
 
