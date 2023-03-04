@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pujitha-vasanth
 - 👀 I’m interested in the application of Predictive Modelling, Computer Vision, and NLP for business solutions
-- 🌱 I’m currently learning "Azure Machine Learning Studio" and "Python for Machine Learning Scientists" from Datacamp
+- 🌱 I’m currently enrolled in the Data Science and Machine Learning Certification from MIT IDSS
 - 📫 How to reach me: pujitha.vasanth@gmail.com | www.linkedin.com/in/pujitha-vasanth/
 
 <!---
