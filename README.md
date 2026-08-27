@@ -1,9 +1,31 @@
-- 👋 Hi, I’m @pujitha-vasanth
-- 👀 I’m interested in the application of Predictive Modelling, Computer Vision, and NLP for business solutions
-- 🌱 I’m currently enrolled in the Data Science and Machine Learning Certification from MIT IDSS
-- 📫 How to reach me: pujitha.vasanth@gmail.com | www.linkedin.com/in/pujitha-vasanth/
+## Pujitha Vasanth
 
-<!---
-pujitha-vasanth/pujitha-vasanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Solution Architect. I scope and design AI systems for enterprise clients,
+mostly on Azure, and sit on the presales side where the technical decision
+and the commercial one have to hold up together.
+
+**What I actually do**
+
+- Translate vague customer requirements into a solution shape: architecture,
+  assumptions, effort, risks, and what we don't yet know
+- Write the SOWs and RFP responses that follow, so the scope I design is the
+  scope that gets signed
+- Run discovery and solutioning calls with clients directly
+- Work across several concurrent engagements at once, in different industries
+
+**Where I'm technically deep**
+
+- LLM application design: RAG, chunking and retrieval strategy, evaluation,
+  agent vs workflow decisions, cost and latency tradeoffs
+- Azure AI and data services, plus AWS where the account calls for it
+- Python, notebooks, and enough production structure to know what I'm asking
+  engineering teams to build
+
+**Background**
+
+MS Chemical and Biochemical Engineering, Rutgers. I came into ML through
+process data and stayed for the systems problems.
+
+**Reach me**
+
+pujitha.vasanth@gmail.com | [LinkedIn](https://www.linkedin.com/in/pujitha-vasanth/)
